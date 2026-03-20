@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe el defecto**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**Pasos para reproducir**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
